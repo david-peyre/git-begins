@@ -8,3 +8,9 @@ git push origin nom_de_la_branche
 
 La commande pour pull : 
 git pull origin nom_de_la_branche
+
+Commande pour créer une nouvelle branche
+git branch nom_de_la_nouvelle_branche
+
+Commande pour basculer sur une autre branche
+git checkout nom_de_l_autre_branche
