@@ -1,0 +1,7 @@
+Cloner un repository :
+git clone https://github.com/nom_utilisateur/repository.git
+
+Les 3 commandes de push :
+git add .
+git commit -m "Commit initial"
+git push origin nom_de_la_branche
